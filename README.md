@@ -4,6 +4,26 @@
 
 Anime Vault is a web application that allows users to explore a curated collection of popular anime series. With a sleek and user-friendly interface, Anime Vault provides information about each anime, including its name, genre, number of episodes, score, and an enticing image.
 
+# Benefits of Server-Side Rendering
+
+Server-side rendering (SSR) in Next.js offers several benefits, making it a preferred choice for building modern web applications. Here are some of the key advantages:
+
+1. **Improved Performance**: SSR generates HTML on the server and sends it to the client, reducing the time to first contentful paint (FCP) and improving perceived performance. Users can see the content sooner, leading to better user experience and potentially lower bounce rates.
+
+2. **SEO Optimization**: Search engine crawlers can easily parse and index the content of server-rendered pages, leading to better search engine optimization (SEO). SSR ensures that search engines can fully render and understand the content of your web pages, potentially improving your site's visibility in search engine results pages (SERPs).
+
+3. **Better Social Sharing**: Social media platforms often rely on meta tags and server-rendered HTML to display previews when users share links. SSR ensures that these platforms can access and display accurate previews of your web pages, improving the visibility and shareability of your content on social media.
+
+4. **Enhanced Accessibility**: SSR provides better support for users with disabilities or slower internet connections by delivering fully rendered HTML content directly to the client. This ensures that users can access your content even if they have limited device capabilities or network bandwidth.
+
+5. **Reduced Time to Interactive (TTI)**: By delivering pre-rendered HTML content to the client, SSR reduces the time it takes for the page to become interactive. This can lead to faster user interactions, such as clicking on links or buttons, resulting in a smoother browsing experience.
+
+6. **Improved Security**: SSR can help mitigate certain security risks, such as cross-site scripting (XSS) attacks, by sanitizing and validating user input on the server before rendering the content. This reduces the likelihood of XSS vulnerabilities compared to client-side rendering (CSR) approaches.
+
+7. **Progressive Enhancement**: SSR allows you to progressively enhance your web application by adding client-side interactivity with JavaScript. You can start with server-rendered pages and then selectively add client-side features to enhance the user experience without sacrificing performance or accessibility.
+
+Overall, server-side rendering in Next.js offers numerous benefits that can improve the performance, accessibility, SEO, and security of your web applications, leading to a better user experience and higher engagement levels.
+
 ## Features
 
 - **Browse Anime**: Users can easily browse through a variety of anime series displayed on the homepage.
@@ -32,7 +52,7 @@ To run the Anime Vault application locally, follow these steps:
 
 ## Contributors
 
-- **Imran** - Lead Developer
+- **Fahim** - Lead Developer
 - **[Insert additional contributors here]**
 
 ## License
