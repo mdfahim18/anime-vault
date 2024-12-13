@@ -53,11 +53,7 @@ To run the Anime Vault application locally, follow these steps:
 ## Contributors
 
 - **Fahim** - Lead Developer
-- **[Insert additional contributors here]**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -66,6 +62,6 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to contact us at [email@example.com]. We'd love to hear from you!
+If you have any questions, suggestions, or feedback, feel free to contact us at [mahmdulaminfahim@gmail.com]. We'd love to hear from you!
 
 ![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
